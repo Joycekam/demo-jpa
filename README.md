@@ -1,1 +1,1 @@
-#JAVA EE & HIBERNATE
+# Projet : Gestionnaire de Tâches
