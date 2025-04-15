@@ -1,5 +1,8 @@
 package fr.esaip;
 
+import fr.esaip.bo.Client;
+import fr.esaip.bo.Emprunt;
+import fr.esaip.bo.Livre;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;

@@ -1,8 +1,7 @@
-package fr.esaip;
+package fr.esaip.bo;
 
 import jakarta.persistence.*;
 
-import java.util.List;
 import java.util.Set;
 
 @Entity

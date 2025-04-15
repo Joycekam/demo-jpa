@@ -1,11 +1,8 @@
-package fr.esaip;
+package fr.esaip.bo;
 
 import jakarta.persistence.*;
-import org.hibernate.annotations.IdGeneratorType;
 
 import java.time.LocalDate;
-import java.util.Date;
-import java.util.List;
 import java.util.Set;
 
 @Entity

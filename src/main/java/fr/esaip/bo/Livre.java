@@ -1,4 +1,4 @@
-package fr.esaip;
+package fr.esaip.bo;
 
 import jakarta.persistence.*;
 
