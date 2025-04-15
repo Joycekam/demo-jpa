@@ -1,1 +1,3 @@
-# Projet : Gestionnaire de Tâches
+# Java EE & Hibernate
+
+## TP2
