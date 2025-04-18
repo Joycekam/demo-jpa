@@ -1,3 +1,3 @@
-# Java EE & Hibernate
+# TP 1, 2, 3
 
-## TP2
+## JOYCE KAMGANG MOMBOU
